@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vercel_app/static/css/main.ac96d367.css",
+    "main.js": "/vercel_app/static/js/main.f6d97fb7.js",
+    "static/js/787.fe233384.chunk.js": "/vercel_app/static/js/787.fe233384.chunk.js",
+    "static/media/pic.jpg": "/vercel_app/static/media/pic.8997b11acea32030ca19.jpg",
+    "index.html": "/vercel_app/index.html",
+    "main.ac96d367.css.map": "/vercel_app/static/css/main.ac96d367.css.map",
+    "main.f6d97fb7.js.map": "/vercel_app/static/js/main.f6d97fb7.js.map",
+    "787.fe233384.chunk.js.map": "/vercel_app/static/js/787.fe233384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac96d367.css",
+    "static/js/main.f6d97fb7.js"
+  ]
+}
